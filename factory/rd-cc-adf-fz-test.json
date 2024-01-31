@@ -1,0 +1,9 @@
+{
+	"name": "rd-cc-adf-fz-test",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a6af6f88-506c-4ec4-b481-89dbb6a6c1f4",
+		"tenantId": "716dbed5-af7c-4d7a-b7ab-9470d85cb84b"
+	}
+}
